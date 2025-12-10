@@ -17,7 +17,7 @@ It demonstrates automation skills for QA roles, including structured test cases,
 ---
 
 ## 📁 Project Structure
-
+```
 Selenium-Automation-Framework/
 │
 ├── tests/ # Test cases
@@ -36,7 +36,7 @@ Selenium-Automation-Framework/
 │
 ├── requirements.txt
 ├── README.md
-
+```
 
 ---
 
