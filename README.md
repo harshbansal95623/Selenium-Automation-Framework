@@ -77,19 +77,6 @@ pytest tests/ --html=reports/test_report.html
 
 ---
 
-## 📢 Purpose  
-This project demonstrates:
-- Ability to build automation frameworks  
-- Use of Selenium WebDriver  
-- Creating reusable page objects  
-- Writing structured test cases  
-- Generating HTML reports  
-- Good coding + testing practices  
-
-Perfect for **QA Engineer**, **Automation Engineer**, or **SDET** interviews.
-
----
-
 ## 👤 Author  
 **Harsh Bansal**  
 GitHub: https://github.com/harshbansal95623
